@@ -1,10 +1,4 @@
-Abdul Wahab Mufti [g-number: 01309846]
-Project 3
+A computer vision application that generates and detects ArUco markers for real-time tracking. The system utilizes a frame-analysis logic for accurate localization and orientation detection using OpenCV as the image procressing API.
 
-Requirements Implemented:
-- implemented part 1
-- implemented part 2
-- implemented part 3
-- implemented part 4
-- implemented part 5 in a separate python file called part5.py
+
 
